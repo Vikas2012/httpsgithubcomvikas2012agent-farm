@@ -1,0 +1,25 @@
+{
+    "name": "https://github.com/vikas2012/agent-farm",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "Agent Farm": "github:vikas2012/agent-farm#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.30",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
